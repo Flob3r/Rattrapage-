@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635082943 source:c:\users\msi\desktop\classroom\plus ou moins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

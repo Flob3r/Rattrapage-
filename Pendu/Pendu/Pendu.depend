@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1634751121 source:c:\users\florian\desktop\classroom\pendu\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+	"dico.c"
+
+1634396595 c:\users\florian\desktop\classroom\pendu\pendu\dico.h
+	<stdio.h>
+
+1634396966 c:\users\florian\desktop\classroom\pendu\pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"dico.h"
+
+1634394637 source:c:\users\florian\desktop\classroom\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+	"dico.c"
+
+1634392995 c:\users\florian\desktop\classroom\pendu\dico.h
+	<stdio.h>
+
+1634393366 c:\users\florian\desktop\classroom\pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"dico.h"
+
+1635093082 source:c:\users\msi\desktop\classroom\pendu\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+	"dico.c"
+
+1634396595 c:\users\msi\desktop\classroom\pendu\pendu\dico.h
+	<stdio.h>
+
+1634396966 c:\users\msi\desktop\classroom\pendu\pendu\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"dico.h"
+
